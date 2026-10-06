@@ -1,0 +1,3 @@
+module hotel-platform-api
+
+go 1.25.0
